@@ -4,9 +4,9 @@ This is a privately circulated revision of:
 
 > Paul L. Williams and Randall D. Beer, "Decomposing Multivariate Information" (2010)
 
-The original paper is available on arXiv ([arXiv:1004.2515](https://arxiv.org/abs/1004.2515)) under the title "Nonnegative Decomposition of Multivariate Information." This revised version, circulated privately under the alternate title "Decomposing Multivariate Information," introduces an axiomatic formulation of redundancy (Axioms 1–3: symmetry, self-redundancy, and monotonicity) that defines a general redundancy function $I_\cap$, from which the redundancy lattice is derived. In contrast, the arXiv version presents $I_\min$ directly as a candidate measure with desirable properties, but does not formalize these as axioms for a general class of redundancy measures.
+The original paper is available on arXiv ([arXiv:1004.2515](https://arxiv.org/abs/1004.2515)) under the title "Nonnegative Decomposition of Multivariate Information." This revised version, circulated privately under the title "Decomposing Multivariate Information," introduces an axiomatic formulation of redundancy (Axioms 1–3: symmetry, self-redundancy, and monotonicity) that defines a general redundancy function $I_\cap$, from which the redundancy lattice is derived. The arXiv version presents $I_\min$ directly as a candidate measure with desirable properties, but does not formalize these as axioms for a general class of redundancy measures.
 
-The axiomatic framework from this version is now treated as canonical in the partial information decomposition (PID) literature, where it is universally referred to as "the Williams and Beer axioms." However, the revised paper was distributed only via personal communication and was never publicly posted. It has been cited accordingly, e.g.:
+The axiomatic framework from this version is now treated as canonical in the partial information decomposition (PID) literature, where it is referred to as "the Williams and Beer axioms." However, the revised paper was distributed only via personal communication and was never publicly posted. It has been cited accordingly, e.g.:
 
 > Williams, P.L.; Beer, R.D. (Indiana University). *Decomposing Multivariate Information*. Privately communicated, 2010.
 
