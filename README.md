@@ -12,6 +12,8 @@ The axiomatic framework from this version is now treated as canonical in the par
 
 As Finn & Lizier ([2018](https://doi.org/10.3390/e20040297)) note: "This unpublished paper is highly similar to [the arXiv version]. Crucially, however, this paper derives the redundancy lattice from the W&B Axioms 1–3. In contrast, [the arXiv version] derives the redundancy lattice as a property of the particular measure $I_\min$." See also Lizier et al. ([2018](https://doi.org/10.3390/e20040307)) for further context on the paper's history in the PID community.
 
-This copy is hosted here for the benefit of the research community, since the revised formalisms have until now lacked a stable, publicly accessible URL. It is intended that this link will remain stable indefinitely, so that others may link to it.
+This copy is hosted here for the benefit of the research community, since the revised formalisms have until now lacked a stable, publicly accessible URL. It is intended that this link will remain stable indefinitely, so that others may link to it:
+
+[https://raw.githubusercontent.com/satchlj/williams-beer-pid/main/Williams-DecomposingMultivariateInformation.pdf](https://raw.githubusercontent.com/satchlj/williams-beer-pid/main/Williams-DecomposingMultivariateInformation.pdf)
 
 No credit is claimed by the host of this repository. If the authors wish this to be removed, please [contact me](https://satchlj.com/contact).
